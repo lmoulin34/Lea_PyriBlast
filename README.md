@@ -1,1 +1,1 @@
-Scripts used in R to analyse amplicon barcoding data of 16S v3-V4 (bacteria) and ITS 3F-ITS4R (fungi), on rice root microbiomes infected by different leaf phytopathogens.
+Scripts used in R to analyse amplicon barcoding data of 16S v3-V4 (bacteria) and ITS 3F-ITS4R (fungi), on rice root microbiomes infected by different leaf phytopathogens. Also include the ASV 16S V3V4 and ITS2 count tables, their sequence and taxoonmic affiliation in ods format. 
